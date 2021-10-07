@@ -1,5 +1,5 @@
 # implement-data-structures-JS-
-implement data structures
+implement data structures and Algothmes
 
 # Partie : 
 
